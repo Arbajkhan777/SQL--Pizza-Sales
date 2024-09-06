@@ -8,7 +8,7 @@ Welcome to the **SQL Pizza Sales Project** repository! This project involves ana
 - **Queries**: SQL queries to explore various aspects of the data.
 - **Results**: A detailed presentation of queries and their results.
 
-## A Glimps of PPT
+## A Glimpse of PPT
 ![image](https://github.com/user-attachments/assets/3beb56dd-e1b0-4f36-a204-d7d39824290c)
 
 ## 📁 Project Structure
